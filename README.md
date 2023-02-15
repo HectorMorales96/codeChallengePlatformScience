@@ -1,7 +1,7 @@
 Prerequistes:
 1.- Have nodejs installed
 
-2.- Create two text files, one containing the shipment destinations and one containing the driver names, each separated by a newline and on the same folder of the assignDrivers.js file. For example for shipment destination:
+2.- Create/modify two text files, one containing the shipment destinations and one containing the driver names, each separated by a newline and on the same folder of the assignDrivers.js file. For example for shipment destination:
 123 Main St
 456 Oak Ln
 789 Maple Rd
